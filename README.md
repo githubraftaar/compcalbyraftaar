@@ -1,59 +1,11 @@
+# React + Vite
 
-# 🎚️ CompCal by Raftaar
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-A precision timing calculator for vocal compression, delay, and reverb.  
-🎧 Designed for clarity. Built with swag.
+Currently, two official plugins are available:
 
----
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🧠 What is CompCal?
-
-**CompCal** helps you calculate accurate **Attack**, **Release**, and **Delay/Reverb timings** based on your track’s BPM and vocal style.
-
-No more guessing — just punch in the tempo and style, and let CompCal do the thinking.
-
----
-
-## 🛠️ Features
-
-- 🔢 BPM input + Tap tempo
-- 🎙️ Vocal style modes: **Staccato, Legato, Neutral**
-- ⏱️ Smart attack & release timing ranges (in ms) for compressors
-- 🎵 Delay/reverb sync tool with support for:
-  - Dotted notes
-  - Triplets
-  - 1/1 to 1/32 note values
-
----
-
-## 📥 How to Use
-
-1. Download and unzip `CompCal.zip`
-2. Extract `CompCal.app`
-3. Right-click the app → **Click “Open”**
-4. On first launch, if you see a warning, click **Open Anyway**
-5. That’s it — enjoy tighter vocal compression and perfectly synced effects
-
----
-
-## 💡 Ideal For
-
-- Music producers
-- Mix engineers
-- Vocal editors
-- Anyone working with **compression, delay, or reverb**
-
----
-
-## 🤝 Built By
-
-Crafted with love by **Raftaar**  
-For the culture. For the creators.
-
----
-
-## 🧢 License
-
-Free to use and distribute.  
-No audio was harmed in the making of this tool.
-# compcalbyraftaar
+## Demo Image 
+![](https://private-user-images.githubusercontent.com/115923073/444117970-e847cee8-8dd5-442c-824f-cbb308c3e49a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNTA2NDMsIm5iZiI6MTc0OTE1MDM0MywicGF0aCI6Ii8xMTU5MjMwNzMvNDQ0MTE3OTcwLWU4NDdjZWU4LThkZDUtNDQyYy04MjRmLWNiYjMwOGMzZTQ5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNVQxOTA1NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGM1N2IzMzJiY2M0YThlNjk3YjY4M2IxNzZhNzdkYzkyYmY2OWNkYjM2OGUzODA5NTQ0M2UxNzIwOWQwNDNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tjNzg8LWRa-Bq7leWVcO7bKQNB8j84LnfQTFCliHtoU)
